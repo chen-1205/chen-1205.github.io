@@ -6,12 +6,12 @@ h1{
 
 p{
     color: pink;
-    line-height: 0;
+    line-height: 10px;
     
 }
 
 
 body{
     
-    background-color: darkblue;
+    background-color: steelblue;
 }
